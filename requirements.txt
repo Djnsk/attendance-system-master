@@ -1,0 +1,8 @@
+opencv-python
+numpy
+torch
+facenet-pytorch
+insightface
+scipy
+onnxruntime
+PyQt6
